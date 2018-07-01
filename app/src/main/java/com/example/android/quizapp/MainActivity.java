@@ -93,7 +93,7 @@ public class MainActivity extends AppCompatActivity {
         EditText textBox_2 = findViewById(R.id.question_7);
 
 //      checking if answers provides match the answers and incrementing the score
-        if(textBox_1.getText().toString().equals("1981")) {
+        if(textBox_1.getText().toString().equals("1998")) {
             score++;
         }
 
