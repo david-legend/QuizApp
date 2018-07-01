@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+
+    <string name="answer_hint">Answer goes here</string>
+    <string name="mark_quiz">Mark Quiz</string>
+
+    <string name="question1">1. In Which decade was the American Institute of Electrical Engineers (AIEE) founded?</string>
+    <string name="question2">2. \"OS\" computer abbreviation usually means?</string>
+    <string name="question3">3. What part of a database that holds only one type of information?</string>
+    <string name="question4">4. In which decade  was the first transalantic radio broadcast occur?</string>
+    <string name="question5">5. \".MOV\" extension refers usually to what kind of file?</string>
+    <string name="question6">6. Which year was Google founded ?</string>
+    <string name="question7">7. Who invented the computer?</string>
+    <string name="question8">8. Who were the founders of Apple?</string>
+    <string name="question9">9. Who were the Initial members of Facebook?</string>
+
+    
+    <string name="question_1a">1850s</string>
+    <string name="question_1b">1880s</string>
+    <string name="question_1c">1930s</string>
+    <string name="question_1d">1950s</string>
+
+    <string name="question_2a">Order of Significance</string>
+    <string name="question_2b">Open Software</string>
+    <string name="question_2c">Operating System</string>
+    <string name="question_2d">Optical Sensor</string>
+
+    <string name="question_3a">Report</string>
+    <string name="question_3b">Field</string>
+    <string name="question_3c">Record</string>
+    <string name="question_3d">File</string>
+
+    <string name="question_4a">1850s</string>
+    <string name="question_4b">1860s</string>
+    <string name="question_4c">1870s</string>
+    <string name="question_4d">1900s</string>
+
+    <string name="question_5a">Image file</string>
+    <string name="question_5b">Animation/movie file</string>
+    <string name="question_5c">Audio file</string>
+    <string name="question_5d">MS Office document</string>
+
+    <string name="question_8a">Charles Babbage</string>
+    <string name="question_8b">Steve Jobs</string>
+    <string name="question_8c">Steve Wozniak</string>
+
+    <string name="question_9a">Mark Zuckerberg</string>
+    <string name="question_9b">Larry Paige</string>
+    <string name="question_9c">Eduardo Saverine</string>
+
+
+</resources>
